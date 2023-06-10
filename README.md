@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heidergutierrez&label=Profile%20views&color=0e75b6&style=flat" alt="heidergutierrez" /> </p>
 
-- 🔭 actualmente estoy trabajando en **en un clon de Netflix**
+- 🔭 actualmente estoy trabajando en **un clon de Netflix**
 
 - 🌱 actualmente estoy aprendiendo **Next.js**
 
